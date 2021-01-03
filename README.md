@@ -6,7 +6,7 @@ I used VBA scripting to analyze real stock market data.
 
 - - -
 
-* I created a script that looped through all the stocks for one year and output the following information:
+* I created a script that looped through all the stocks for one year and outputted the following information:
 
   * The ticker symbol.
 
