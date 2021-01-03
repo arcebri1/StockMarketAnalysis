@@ -4,10 +4,7 @@
 
 I used VBA scripting to analyze real stock market data. 
 
-The data is provided by UCSD Extension: Data Science and Visualization Bootcamp.
-
 - - -
-
 
 * I created a script that looped through all the stocks for one year and output the following information:
 
@@ -19,10 +16,10 @@ The data is provided by UCSD Extension: Data Science and Visualization Bootcamp.
 
   * The total stock volume of the stock.
 
-* Used conditional formatting that highlighted positive change in green and negative change in red.
+  * Used conditional formatting that highlighted positive change in green and negative change in red.
 
-
-
+- - -
+The data is provided by UCSD Extension: Data Science and Visualization Bootcamp.
 - - -
 
 Contact:
