@@ -18,7 +18,7 @@ I used VBA scripting to analyze real stock market data.
 
   * Used conditional formatting that highlighted positive change in green and negative change in red.
 
-  ![](screenshots/2014-2016.gif)s
+  ![](screenshots/2014-2016.gif)
 
 - - -
 The data is provided by UCSD Extension: Data Science and Visualization Bootcamp.
